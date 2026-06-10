@@ -15,8 +15,5 @@ A machine learning web application that predicts the winning probability of IPL 
 - Scikit-learn
 - Streamlit
 
-## Run Locally
-
-pip install -r requirements.txt
-
-streamlit run app.py
+## Running Website
+https://iplwinprobabilitypredictionmodel-v3qyfov7cvo4pejpcntqqr.streamlit.app/
